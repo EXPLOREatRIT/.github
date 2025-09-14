@@ -1,42 +1,42 @@
-# Welcome to EXPLORE at RIT! 🎓🔬
+# Welcome to EXPLORE at RIT! 🤖🌊
 
 ## About EXPLORE
-EXPLORE at RIT is a dynamic research and educational initiative that brings together students, faculty, and industry partners to push the boundaries of innovation, discovery, and learning at Rochester Institute of Technology.
+EXPLORE at RIT is a pioneering robotics organization that brings together students from STEM and non-STEM majors with any level of experience in robotics to learn and work towards a shared goal. We are working to be the first robotics club at RIT to actively and sustainably participate in field research, exploring and recording local aquatic environments and wildlife.
 
 ## Our Mission
-We foster collaborative research experiences that:
-- **Bridge** academic knowledge with real-world applications
-- **Connect** students with cutting-edge research opportunities
-- **Empower** the next generation of innovators and problem-solvers
-- **Advance** scientific discovery and technological innovation
+The organization aims to bring together students from STEM and non-STEM majors with any level of experience in robotics to learn and work towards a shared goal. Our goal is to be the first robotics club at RIT to actively and sustainably participate in field research, exploring and recording local aquatic environments and wildlife. Our efforts are to help wildlife exploration and preservation, and doing all we can to help in the process without causing any harm.
 
 ## What We Do
-- 🔬 **Research Excellence**: Supporting groundbreaking research across diverse disciplines
-- 🤝 **Collaborative Projects**: Connecting students with faculty mentors and industry partners
-- 💡 **Innovation Hub**: Providing resources and support for creative problem-solving
-- 🌱 **Professional Development**: Preparing students for successful careers in research and industry
-- 🌍 **Community Impact**: Addressing real-world challenges through applied research
+Our group aims to make waves in the space of environmental engineering by focusing on maritime monitoring and exploration to produce robotics which contribute to science. Our ambition is to be the first robotics club at RIT to actively participate in field research, exploring and recording local aquatic environments and wildlife.
+
+- 🚤 **Sustainable Robotics**: Utilizing readily available parts and recyclable materials to craft resourceful boat buoys
+- 📡 **Advanced Monitoring**: Implementing software with sonar capabilities and live footage feed
+- 🌊 **Deep Water Exploration**: Working towards capabilities sufficient to explore Lake Ontario
+- 🗺️ **Environmental Mapping**: Mapping lake ground structure and wildlife populations
+- 🔬 **Industry Standards**: Building increasingly refined vessels comparable to ocean exploration research standards
+
+We want to show the remote scouting features which come when utilizing low-cost, sustainable, easily accessible material and how they can be practically applied for environmental purposes. At our exhibit we feature a boat projecting a camera feed via wireless connection. We wish to expand upon the range and vertical reach of our remote vessels.
 
 ## Get Involved
-Whether you're a student looking to dive into research, a faculty member seeking collaboration opportunities, or an industry partner interested in innovation, there's a place for you in EXPLORE!
+Whether you're a student interested in robotics, environmental science, or making a positive impact on aquatic ecosystems, there's a place for you in EXPLORE!
 
 ### For Students
-- Browse our [research opportunities](../../)
-- Connect with faculty mentors
-- Join interdisciplinary project teams
-- Participate in research presentations and conferences
+- Join our robotics and environmental monitoring projects
+- Learn hands-on skills in sustainable engineering
+- Participate in field research and data collection
+- Contribute to wildlife exploration and preservation efforts
 
 ### For Faculty
-- Share your research projects
-- Find student collaborators
-- Access funding and resource opportunities
-- Engage in cross-disciplinary partnerships
+- Collaborate on aquatic robotics research
+- Support student-led environmental initiatives
+- Access field research opportunities
+- Engage in sustainable technology development
 
 ### For Industry Partners
-- Collaborate on applied research projects
-- Access student talent and faculty expertise
-- Explore technology transfer opportunities
-- Support the next generation of innovators
+- Partner with us on environmental monitoring solutions
+- Support sustainable robotics development
+- Explore low-cost, accessible maritime technology
+- Contribute to wildlife preservation efforts
 
 ## Stay Connected
 - 📧 Contact us: [explore@rit.edu](mailto:explore@rit.edu)
@@ -45,7 +45,7 @@ Whether you're a student looking to dive into research, a faculty member seeking
 
 ---
 
-*EXPLORE at RIT - Where curiosity meets innovation and discovery transforms the future.*
+*EXPLORE at RIT - Where robotics meets environmental stewardship and innovation drives conservation.*
 
 ## Contributing to Our Projects
-Check out our repositories to see our ongoing projects and how you can contribute to advancing research and innovation at RIT!
+Check out our repositories to see our ongoing aquatic robotics and environmental monitoring projects, and discover how you can contribute to sustainable exploration and wildlife preservation!
